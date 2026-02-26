@@ -52,6 +52,12 @@ Je travaille sur des missions ponctuelles ou continues :
 
 ---
 
+## 📂 Projets du portfolio
+
+- [API Météo – Python](projects/api-meteo-python/) — récupération API, nettoyage, analyse (min/max/moyenne)
+- [API Météo – SQLite + SQL (CTE)](projects/api-meteo-sqlite/) — pipeline complet API → DB → SQL avancé
+
+
 ## 📬 Contact
 
 - LinkedIn : [ton lien LinkedIn]  
