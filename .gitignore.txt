@@ -1,0 +1,6 @@
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Fichiers temporaires
+*.pyc
+__pycache__/
